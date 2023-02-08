@@ -1,3 +1,5 @@
 # HomePricesPrediction
 
-testing 123
+TODO: 
+- Clean, Exploring Data
+- Visualizing data using PowerBi, Tableau
